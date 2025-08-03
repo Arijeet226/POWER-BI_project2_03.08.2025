@@ -65,3 +65,7 @@ At the end of this project, you will have a fully functional, real-time weather 
 Displays accurate current and forecasted weather data for multiple cities.
 Updates automatically with fresh data from the API.
 Uses clear visual cues to convey weather insights and alerts.
+
+**Screenshot of dashboard:**  
+![Preview of dashboard](https://github.com/Arijeet226/POWER-BI_project2_03.08.2025/blob/d29c0e962159d2028affeced3490acea480db03a/Screenshot%202025-08-03%20194004.png)
+
