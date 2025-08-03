@@ -3,8 +3,10 @@ This is my first power bi project on live data made interactive dashboard from l
 Real-Time Live Weather Dashboard Project - Roadmap
 Overview
 This project creates an interactive, real-time weather dashboard using Power BI that fetches live weather data from a weather API. It helps users monitor current weather conditions, forecasts, and air quality indicators for multiple cities with dynamic visuals and automated updates.
-
-Roadmap
+## DATA SOURCE - https://www.weatherapi.com/
+## CITIES
+Bangalore,Bhubaneshwar,Birmitrapur,Chandigarh,Gurgaon,Kolkata,Mangalore,Noida,Rourkela
+## Roadmap
 ## 1. Data Source and API Setup
 Choose the Data Source: Instead of using static CSV files, this project uses a Weather API to fetch live, up-to-date weather data.
 
